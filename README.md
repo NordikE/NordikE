@@ -2,7 +2,7 @@ Hei! Jeg er Erik og akkurat nå jobber jeg blandt annet med mine CSharp skills! 
 
 Jeg begynte med koding veldig tidlig og har lært meg selv FORTRAN, BASIC og Logo før DOS kom. Gjennom studier har jeg også jobbet med MATLAB, MATHCAD, PYTHON og C++. Nå harr jerg vært på Kodehode i noen måneder og har lært veldig mye HTML, CSS, JavaScript, SQL og CSharp. 
 
-/// Jeg er en person som ikke kan game fordi jeg blir hektet på spill og klarer ikke å holde døgnrytmen hvis jeg finner et spill som jeg liker. Derfor gamer jeg ikke lenger men er definitivt en person som setter meg langt inn i hvordan ting virker og hvordan det kan brukes helst for å breake spillet men i verste fall vinne.///
+Jeg har gamet mye gjennom livet men akkurat nå tar jeg en lang pause for å holde en bedre rutine! Jeg er typen som liker å finne ut av hvordan spill virker og hvordan det kan brukes på lure måter som gjerne ikke har vært tenkt på. 
 
 Jeg har stor interesse for å kunne bruke programmering til å gjøre verden enklere, bedre, grønnere og mer miljøvennlig.
 
