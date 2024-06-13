@@ -1,4 +1,4 @@
-Hei! Jeg er Erik og akkurat nå jobber jeg med mine C# skills!  Jeg er veldig interessert i backend og systemer. Jeg er utdannet sivilingeniør innen skipsmaskineri men har kommet frem til at jeg liker koding bedre. Jeg har hobby-kodet på mange forskjellige språk over årene men nå jobber jeg aktivt med å lære meg mer praktisk koding.
+Hei! Jeg er Erik og akkurat nå jobber jeg med mine C# og TypeScript skills!  Jeg er veldig interessert i backend og systemer. Jeg er utdannet sivilingeniør innen skipsmaskineri men har kommet frem til at jeg liker koding bedre. Jeg har hobby-kodet på mange forskjellige språk over årene men nå jobber jeg aktivt med å lære meg mer praktisk koding.
 
 Jeg begynte med koding veldig tidlig og har lært meg selv FORTRAN, BASIC og Logo før DOS og Windows kom. Gjennom studier har jeg også jobbet med MATLAB, MATHCAD, PYTHON og C++. I jobb sammenheng har jeg jobbet med AutoCAD Inventor, ProEngineer og SolidWorks. Nå har jeg vært på Kodehode i noen måneder og har lært en god del HTML, CSS, JavaScript/ TypeScript, SQL og C#. 
 
